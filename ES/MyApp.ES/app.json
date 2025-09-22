@@ -1,7 +1,7 @@
 ﻿{
-    "id":  "ESGUID",
+    "id":  "12E1FE52-6510-49BA-879E-B859540CDA23",
     "name":  "MyApp.ES",
-    "publisher":  "PUBLISHERNAME",
+    "publisher":  "MetaK",
     "version":  "1.0.0.0",
     "brief":  "",
     "description":  "",
@@ -18,9 +18,9 @@
             "version":  "1.0.0.0"
         },
         {
-            "id":  "W1GUID",
+            "id":  "34A4514B-AB78-4BBB-A1B5-0C6119D6AC3D",
             "name":  "MyApp.W1",
-            "publisher":  "PUBLISHERNAME",
+            "publisher":  "MetaK",
             "version":  "1.0.0.0"
         }
     ],
